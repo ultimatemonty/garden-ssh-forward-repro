@@ -1,0 +1,10 @@
+kind: Module
+description: SSH server
+type: container
+name: ssh
+services:
+  - name: ssh
+    ports:
+      - name: ssh
+        containerPort: 22
+        servicePort: 2222

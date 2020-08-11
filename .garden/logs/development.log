@@ -1,0 +1,98 @@
+
+[2020-08-11T21:54:50.591Z] Getting status...
+
+[2020-08-11T21:54:52.998Z] Getting status... → Done
+
+[2020-08-11T21:54:53.076Z] ⏳  Processing...
+
+[2020-08-11T21:54:53.087Z] Syncing module sources (2 files)...
+
+[2020-08-11T21:54:53.148Z] Syncing module sources (2 files)... → Done (took 0.1 sec)
+
+[2020-08-11T21:54:53.158Z] Getting build status for v-6eb70b15dc...
+
+[2020-08-11T21:54:53.855Z] Building version v-6eb70b15dc...
+
+[2020-08-11T21:54:54.134Z] Building ssh:v-6eb70b15dc...
+
+[2020-08-11T21:54:56.461Z] Building ssh:v-6eb70b15dc... → Done (took 3.3 sec)
+
+[2020-08-11T21:54:56.471Z] Deploying version v-6eb70b15dc...
+
+[2020-08-11T21:54:59.152Z] Waiting for resources to be ready...
+
+[2020-08-11T21:55:01.186Z] Resources ready
+
+[2020-08-11T21:55:01.222Z] Deploying version v-6eb70b15dc... → Done (took 4.8 sec)
+
+[2020-08-11T21:55:01.243Z] → Forward: ssh://127.0.0.1:52682 → ssh:22 (ssh)
+
+[2020-08-11T21:55:01.258Z] Waiting for code changes...
+
+[2020-08-11T21:58:10.446Z] Getting status...
+
+[2020-08-11T21:58:11.112Z] Getting status... → Cached
+
+[2020-08-11T21:58:11.121Z] Run with --force-refresh to force a refresh of provider statuses.
+
+[2020-08-11T21:58:11.238Z] Module configuration changed, reloading...
+
+[2020-08-11T21:58:11.297Z] Getting status...
+
+[2020-08-11T21:58:11.439Z] Getting status... → Cached
+
+[2020-08-11T21:58:11.450Z] Run with --force-refresh to force a refresh of provider statuses.
+
+[2020-08-11T21:58:11.616Z] ⏳  Processing...
+
+[2020-08-11T21:58:11.635Z] Syncing module sources (2 files)...
+
+[2020-08-11T21:58:11.740Z] Syncing module sources (2 files)... → Done (took 0.1 sec)
+
+[2020-08-11T21:58:11.752Z] Getting build status for v-5478d8fb3b...
+
+[2020-08-11T21:58:12.425Z] Building version v-5478d8fb3b...
+
+[2020-08-11T21:58:12.687Z] Building ssh:v-5478d8fb3b...
+
+[2020-08-11T21:58:13.359Z] Building ssh:v-5478d8fb3b... → Done (took 1.6 sec)
+
+[2020-08-11T21:58:13.374Z] Deploying version v-5478d8fb3b...
+
+[2020-08-11T21:58:15.430Z] Waiting for resources to be ready...
+
+[2020-08-11T21:58:17.461Z] Resources ready
+
+[2020-08-11T21:58:17.499Z] Deploying version v-5478d8fb3b... → Done (took 4.1 sec)
+
+[2020-08-11T21:58:17.523Z] → Forward: ssh://127.0.0.1:2222 → ssh:2222 (ssh)
+
+[2020-08-11T21:58:17.538Z] Waiting for code changes...
+
+[2020-08-11T22:00:18.902Z] Getting status...
+
+[2020-08-11T22:00:19.768Z] Getting status... → Cached
+
+[2020-08-11T22:00:19.779Z] Run with --force-refresh to force a refresh of provider statuses.
+
+[2020-08-11T22:00:19.888Z] ⏳  Processing...
+
+[2020-08-11T22:00:19.899Z] Syncing module sources (2 files)...
+
+[2020-08-11T22:00:19.979Z] Syncing module sources (2 files)... → Done (took 0.1 sec)
+
+[2020-08-11T22:00:19.989Z] Getting build status for v-5478d8fb3b...
+
+[2020-08-11T22:00:20.712Z] Getting build status for v-5478d8fb3b... → Done (took 0.7 sec)
+
+[2020-08-11T22:00:20.723Z] Deploying version v-5478d8fb3b...
+
+[2020-08-11T22:00:22.533Z] Waiting for resources to be ready...
+
+[2020-08-11T22:00:24.569Z] Resources ready
+
+[2020-08-11T22:00:24.605Z] Deploying version v-5478d8fb3b... → Done (took 3.9 sec)
+
+[2020-08-11T22:00:24.623Z] → Forward: ssh://127.0.0.1:2222 → ssh:2222 (ssh)
+
+[2020-08-11T22:00:24.639Z] Waiting for code changes...

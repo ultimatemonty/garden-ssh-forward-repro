@@ -1,0 +1,7 @@
+kind: Project
+name: ssh-forward-repro
+environments:
+  - name: local
+providers:
+  - name: local-kubernetes
+    environmentes: [local]
